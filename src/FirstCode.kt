@@ -1,4 +1,4 @@
-import java_Class.Hero
+import javaclass.Hero
 
 fun main() {
     println("Hello World !!")
