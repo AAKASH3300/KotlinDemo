@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="426b502f-e629-48d6-b46f-6eac4b86f917" name="Changes" comment="firstcommit">
-      <change afterPath="$PROJECT_DIR$/src/ControlFlow.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operators.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringComp.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhenExp.kt" afterDir="false" />
+    <list default="true" id="426b502f-e629-48d6-b46f-6eac4b86f917" name="Changes" comment="secondcommit">
+      <change afterPath="$PROJECT_DIR$/src/List.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Map.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Alien.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Alien.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstCode.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstCode.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +38,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.CollectionTypesKt.executor": "Run",
     "Kotlin.ControlFlowKt.executor": "Run",
     "Kotlin.FirstCodeKt.executor": "Run",
+    "Kotlin.LoopsKt.executor": "Run",
+    "Kotlin.MapKt.executor": "Run",
     "Kotlin.OperatorsKt.executor": "Run",
     "Kotlin.StringCompKt.executor": "Run",
     "Kotlin.WhenExpKt.executor": "Run",
@@ -53,23 +53,23 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.WhenExpKt">
-    <configuration name="ControlFlowKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControlFlowKt" />
+  <component name="RunManager" selected="Kotlin.MapKt">
+    <configuration name="ListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListKt" />
       <module name="KotlinDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstCodeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstCodeKt" />
+    <configuration name="LoopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopsKt" />
       <module name="KotlinDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperatorsKt" />
+    <configuration name="MapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapKt" />
       <module name="KotlinDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MapKt" />
+        <item itemvalue="Kotlin.ListKt" />
+        <item itemvalue="Kotlin.LoopsKt" />
         <item itemvalue="Kotlin.WhenExpKt" />
         <item itemvalue="Kotlin.StringCompKt" />
-        <item itemvalue="Kotlin.ControlFlowKt" />
-        <item itemvalue="Kotlin.OperatorsKt" />
-        <item itemvalue="Kotlin.FirstCodeKt" />
       </list>
     </recent_temporary>
   </component>
@@ -131,11 +131,20 @@
       <option name="project" value="LOCAL" />
       <updated>1707398043751</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="secondcommit">
+      <option name="closed" value="true" />
+      <created>1707743755392</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707743755392</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="firstcommit" />
-    <option name="LAST_COMMIT_MESSAGE" value="firstcommit" />
+    <MESSAGE value="secondcommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="secondcommit" />
   </component>
 </project>
