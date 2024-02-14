@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="426b502f-e629-48d6-b46f-6eac4b86f917" name="Changes" comment="secondcommit">
-      <change afterPath="$PROJECT_DIR$/src/List.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map.kt" afterDir="false" />
+    <list default="true" id="426b502f-e629-48d6-b46f-6eac4b86f917" name="Changes" comment="thirdcommit">
+      <change afterPath="$PROJECT_DIR$/src/ExtensionFunc.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunctionExp.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parameters.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TypeConversion.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4e971d31a05f7b7400ff0424408e381db920dea9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/e/4e971d31a05f7b7400ff0424408e381db920dea9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Alien.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Alien.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,14 +27,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -38,13 +50,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Runner.executor": "Run",
     "Kotlin.CollectionTypesKt.executor": "Run",
     "Kotlin.ControlFlowKt.executor": "Run",
+    "Kotlin.ExtensionFuncKt.executor": "Run",
     "Kotlin.FirstCodeKt.executor": "Run",
+    "Kotlin.FunctionExpKt.executor": "Run",
     "Kotlin.LoopsKt.executor": "Run",
     "Kotlin.MapKt.executor": "Run",
     "Kotlin.OperatorsKt.executor": "Run",
+    "Kotlin.Params.executor": "Run",
+    "Kotlin.RecursionKt.executor": "Run",
     "Kotlin.StringCompKt.executor": "Run",
+    "Kotlin.TypeConversionKt.executor": "Run",
     "Kotlin.WhenExpKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -53,37 +71,37 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.MapKt">
-    <configuration name="ListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListKt" />
+  <component name="RunManager" selected="Kotlin.RecursionKt">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Runner" />
       <module name="KotlinDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoopsKt" />
+    <configuration name="ExtensionFuncKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExtensionFuncKt" />
       <module name="KotlinDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MapKt" />
+    <configuration name="Params" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Params" />
       <module name="KotlinDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringCompKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringCompKt" />
+    <configuration name="RecursionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursionKt" />
       <module name="KotlinDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhenExpKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhenExpKt" />
+    <configuration name="TypeConversionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TypeConversionKt" />
       <module name="KotlinDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.MapKt" />
-        <item itemvalue="Kotlin.ListKt" />
-        <item itemvalue="Kotlin.LoopsKt" />
-        <item itemvalue="Kotlin.WhenExpKt" />
-        <item itemvalue="Kotlin.StringCompKt" />
+        <item itemvalue="Kotlin.RecursionKt" />
+        <item itemvalue="Kotlin.ExtensionFuncKt" />
+        <item itemvalue="Kotlin.TypeConversionKt" />
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Kotlin.Params" />
       </list>
     </recent_temporary>
   </component>
@@ -139,12 +157,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707743755392</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="thirdcommit">
+      <option name="closed" value="true" />
+      <created>1707809185268</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707809185269</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="firstcommit" />
     <MESSAGE value="secondcommit" />
-    <option name="LAST_COMMIT_MESSAGE" value="secondcommit" />
+    <MESSAGE value="thirdcommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="thirdcommit" />
   </component>
 </project>

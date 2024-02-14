@@ -9,7 +9,7 @@ fun main() {
     }
 
     // var num = 16 .. 1 // wrong
-    var num = 16 downTo 1 // used to decrement and print values
+    var num = 16 downTo 1 // used to decrement and print values downTo-Infix function
     for (b in num) {
         println(b)
     }
