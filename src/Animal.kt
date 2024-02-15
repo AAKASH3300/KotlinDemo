@@ -1,4 +1,4 @@
-class Alien {
+class Animal {
     var name: String = ""
     //val name : String = ""; // Error : Val cannot be reassigned
 

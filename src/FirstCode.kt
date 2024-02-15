@@ -3,7 +3,7 @@ import javaclass.Hero
 fun main() {
     println("Hello World !!")
 
-    var tatto = Alien() //Object
+    var tatto = Animal() //Object
 
     // val tatto = Alien(); this works fine
     // Again if we try to create an object tatto = Alien (); --> Error:Val cannot be reassigned
