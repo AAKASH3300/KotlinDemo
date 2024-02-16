@@ -1,8 +1,6 @@
 
 @
 src/FirstCode.kt,c\8\c8f79d1d128c63d50bb41bfa7cffb54250b7f7a9
-<
-src/Alien.kt,8\4\84ec93be335c208d578b038147661027bec98171
 \
 ,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
 T
@@ -33,10 +31,6 @@ A
 src/Map.kt,c\4\c4a9c2c2be577ad5fae01149dffe8f576704516f
 
 Q.idea/sonarlint/securityhotspotstore/2/8/2832e0424aed1baac30ce93ee19c455ed8dfaf24,9\3\93d134b3ea5958adc361de4b7fa0b0999a825aec
-w
-G.idea/sonarlint/issuestore/8/4/84ec93be335c208d578b038147661027bec98171,d\4\d4a322e219a6bd18d016975f8b947f31be0d64ea
-
-Q.idea/sonarlint/securityhotspotstore/8/4/84ec93be335c208d578b038147661027bec98171,c\0\c0c69929b32096f90ec19edad8be5a870aba4de1
 
 Q.idea/sonarlint/securityhotspotstore/c/d/cdd9530168c1b1b4573c2945fa61f8ba0445018a,a\e\aee659af67bceded696236c2cc7eb92a91195fd2
 ;
@@ -241,3 +235,13 @@ A
 src/ObjKeyword.kt,f\4\f4a20568a8e89f39d5a00c77662d09f5da690f17
 =
 src/Animal.kt,5\e\5ea919df147bb84b4620d799029d61a21266ba3c
+E
+src/AnonymousClass.kt,9\3\93ec6681daeaade80df3d333a948fea4c042280b
+B
+src/Anonymous.java,b\8\b89c8ce717ae65d37cb420f02e2ef19e5e91de31
+F
+src/CompanionObject.kt,7\5\75cd5031263419f4f648119fe3a558593983326e
+B
+src/Companion.java,a\5\a5779940366f31d60a0cd5f47ed835b983338a0d
+D
+src/FactoryDesign.kt,8\8\8818214162ecb1591c3d57e2da125635ce632633

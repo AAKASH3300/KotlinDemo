@@ -4,26 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="426b502f-e629-48d6-b46f-6eac4b86f917" name="Changes" comment="fourthcommit">
-      <change afterPath="$PROJECT_DIR$/src/AbstractClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConstructorInheritance.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constructors.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjKeyword.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TailRecursion.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05ccc55db8405baf96c8f9f01f465e62272300a2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05ccc55db8405baf96c8f9f01f465e62272300a2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/65c5726369c2c77e062a4ef3870777a14ff0d035" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cdb3275201f5bc18ba91c3a634a4dede9aac12df" beforeDir="false" />
+    <list default="true" id="426b502f-e629-48d6-b46f-6eac4b86f917" name="Changes" comment="fifthcommit">
+      <change afterPath="$PROJECT_DIR$/src/Anonymous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnonymousClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Companion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CompanionObject.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryDesign.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84ec93be335c208d578b038147661027bec98171" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c0c69929b32096f90ec19edad8be5a870aba4de1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d4a322e219a6bd18d016975f8b947f31be0d64ea" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/5/65c5726369c2c77e062a4ef3870777a14ff0d035" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/d/cdb3275201f5bc18ba91c3a634a4dede9aac12df" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/4/84ec93be335c208d578b038147661027bec98171" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/0/c0c69929b32096f90ec19edad8be5a870aba4de1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/4/d4a322e219a6bd18d016975f8b947f31be0d64ea" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Alien.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animal.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExtensionFunc.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExtensionFunc.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstCode.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstCode.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -56,8 +51,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Anonymous.executor": "Run",
     "Application.Runner.executor": "Run",
     "Kotlin.AbstractClassKt.executor": "Run",
+    "Kotlin.AnonymousClassKt.executor": "Run",
     "Kotlin.CollectionTypesKt.executor": "Run",
     "Kotlin.ConstructorInheritanceKt.executor": "Run",
     "Kotlin.ConstructorsKt.executor": "Run",
@@ -65,6 +62,7 @@
     "Kotlin.DataClassKt.executor": "Run",
     "Kotlin.ExtensionFuncKt (1).executor": "Run",
     "Kotlin.ExtensionFuncKt.executor": "Run",
+    "Kotlin.FactoryDesignKt.executor": "Run",
     "Kotlin.FirstCodeKt.executor": "Run",
     "Kotlin.FunctionExpKt.executor": "Run",
     "Kotlin.InheritanceKt.executor": "Run",
@@ -86,16 +84,16 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ObjKeywordKt">
-    <configuration name="AbstractClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AbstractClassKt" />
+  <component name="RunManager" selected="Kotlin.FactoryDesignKt">
+    <configuration name="Anonymous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Anonymous" />
       <module name="KotlinDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructorInheritanceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConstructorInheritanceKt" />
+    <configuration name="AnonymousClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnonymousClassKt" />
       <module name="KotlinDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterfaceKt" />
+    <configuration name="FactoryDesignKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactoryDesignKt" />
       <module name="KotlinDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FactoryDesignKt" />
+        <item itemvalue="Kotlin.AnonymousClassKt" />
+        <item itemvalue="Application.Anonymous" />
         <item itemvalue="Kotlin.ObjKeywordKt" />
         <item itemvalue="Kotlin.DataClassKt" />
-        <item itemvalue="Kotlin.InterfaceKt" />
-        <item itemvalue="Kotlin.AbstractClassKt" />
-        <item itemvalue="Kotlin.ConstructorInheritanceKt" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707917287042</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fifthcommit">
+      <option name="closed" value="true" />
+      <created>1707992845612</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707992845612</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,6 +213,7 @@
     <MESSAGE value="secondcommit" />
     <MESSAGE value="thirdcommit" />
     <MESSAGE value="fourthcommit" />
-    <option name="LAST_COMMIT_MESSAGE" value="fourthcommit" />
+    <MESSAGE value="fifthcommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fifthcommit" />
   </component>
 </project>
