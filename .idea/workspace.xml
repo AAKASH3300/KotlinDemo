@@ -4,21 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="426b502f-e629-48d6-b46f-6eac4b86f917" name="Changes" comment="fifthcommit">
-      <change afterPath="$PROJECT_DIR$/src/Anonymous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnonymousClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Companion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CompanionObject.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FactoryDesign.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84ec93be335c208d578b038147661027bec98171" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c0c69929b32096f90ec19edad8be5a870aba4de1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d4a322e219a6bd18d016975f8b947f31be0d64ea" beforeDir="false" />
+    <list default="true" id="426b502f-e629-48d6-b46f-6eac4b86f917" name="Changes" comment="sixthcommit">
+      <change afterPath="$PROJECT_DIR$/src/Arrays.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsumerDemo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EscapeChar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FilterAndMap.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HigherOrderFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListofObjects.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserInput.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/4/84ec93be335c208d578b038147661027bec98171" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/0/c0c69929b32096f90ec19edad8be5a870aba4de1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/4/d4a322e219a6bd18d016975f8b947f31be0d64ea" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/List.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,18 +52,24 @@
     "Application.Runner.executor": "Run",
     "Kotlin.AbstractClassKt.executor": "Run",
     "Kotlin.AnonymousClassKt.executor": "Run",
+    "Kotlin.ArraysKt.executor": "Run",
     "Kotlin.CollectionTypesKt.executor": "Run",
     "Kotlin.ConstructorInheritanceKt.executor": "Run",
     "Kotlin.ConstructorsKt.executor": "Run",
+    "Kotlin.ConsumerDemoKt.executor": "Run",
     "Kotlin.ControlFlowKt.executor": "Run",
     "Kotlin.DataClassKt.executor": "Run",
     "Kotlin.ExtensionFuncKt (1).executor": "Run",
     "Kotlin.ExtensionFuncKt.executor": "Run",
     "Kotlin.FactoryDesignKt.executor": "Run",
+    "Kotlin.FilterAndMapKt.executor": "Run",
     "Kotlin.FirstCodeKt.executor": "Run",
     "Kotlin.FunctionExpKt.executor": "Run",
+    "Kotlin.HigherOrderFunctionsKt.executor": "Run",
     "Kotlin.InheritanceKt.executor": "Run",
     "Kotlin.InterfaceKt.executor": "Run",
+    "Kotlin.ListKt.executor": "Run",
+    "Kotlin.ListofObjectsKt.executor": "Run",
     "Kotlin.LoopsKt.executor": "Run",
     "Kotlin.MapKt.executor": "Run",
     "Kotlin.ObjKeywordKt.executor": "Run",
@@ -76,6 +79,7 @@
     "Kotlin.StringCompKt.executor": "Run",
     "Kotlin.TailRecursionKt.executor": "Run",
     "Kotlin.TypeConversionKt.executor": "Run",
+    "Kotlin.UserInputKt.executor": "Run",
     "Kotlin.WhenExpKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -84,37 +88,37 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.FactoryDesignKt">
-    <configuration name="Anonymous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Anonymous" />
+  <component name="RunManager" selected="Kotlin.FilterAndMapKt">
+    <configuration name="ConsumerDemoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConsumerDemoKt" />
       <module name="KotlinDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnonymousClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnonymousClassKt" />
+    <configuration name="FilterAndMapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FilterAndMapKt" />
       <module name="KotlinDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataClassKt" />
+    <configuration name="HigherOrderFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HigherOrderFunctionsKt" />
       <module name="KotlinDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactoryDesignKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactoryDesignKt" />
+    <configuration name="ListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListKt" />
       <module name="KotlinDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjKeywordKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjKeywordKt" />
+    <configuration name="ListofObjectsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListofObjectsKt" />
       <module name="KotlinDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -122,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.FactoryDesignKt" />
-        <item itemvalue="Kotlin.AnonymousClassKt" />
-        <item itemvalue="Application.Anonymous" />
-        <item itemvalue="Kotlin.ObjKeywordKt" />
-        <item itemvalue="Kotlin.DataClassKt" />
+        <item itemvalue="Kotlin.FilterAndMapKt" />
+        <item itemvalue="Kotlin.ConsumerDemoKt" />
+        <item itemvalue="Kotlin.HigherOrderFunctionsKt" />
+        <item itemvalue="Kotlin.ListofObjectsKt" />
+        <item itemvalue="Kotlin.ListKt" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707992845612</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="sixthcommit">
+      <option name="closed" value="true" />
+      <created>1708089768182</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708089768182</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,6 +226,7 @@
     <MESSAGE value="thirdcommit" />
     <MESSAGE value="fourthcommit" />
     <MESSAGE value="fifthcommit" />
-    <option name="LAST_COMMIT_MESSAGE" value="fifthcommit" />
+    <MESSAGE value="sixthcommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="sixthcommit" />
   </component>
 </project>
