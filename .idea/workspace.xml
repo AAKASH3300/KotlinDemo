@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="426b502f-e629-48d6-b46f-6eac4b86f917" name="Changes" comment="sixthcommit">
-      <change afterPath="$PROJECT_DIR$/src/Arrays.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConsumerDemo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EscapeChar.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FilterAndMap.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HigherOrderFunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListofObjects.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UserInput.kt" afterDir="false" />
+    <list default="true" id="426b502f-e629-48d6-b46f-6eac4b86f917" name="Changes" comment="sevencommit">
+      <change afterPath="$PROJECT_DIR$/src/TryCatch.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/List.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +71,7 @@
     "Kotlin.RecursionKt.executor": "Run",
     "Kotlin.StringCompKt.executor": "Run",
     "Kotlin.TailRecursionKt.executor": "Run",
+    "Kotlin.TryCatchKt.executor": "Debug",
     "Kotlin.TypeConversionKt.executor": "Run",
     "Kotlin.UserInputKt.executor": "Run",
     "Kotlin.WhenExpKt.executor": "Run",
@@ -88,7 +82,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.FilterAndMapKt">
+  <component name="RunManager" selected="Kotlin.TryCatchKt">
     <configuration name="ConsumerDemoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConsumerDemoKt" />
       <module name="KotlinDemo" />
@@ -110,13 +104,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListKt" />
-      <module name="KotlinDemo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ListofObjectsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListofObjectsKt" />
       <module name="KotlinDemo" />
@@ -124,13 +111,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TryCatchKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TryCatchKt" />
+      <module name="KotlinDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TryCatchKt" />
         <item itemvalue="Kotlin.FilterAndMapKt" />
         <item itemvalue="Kotlin.ConsumerDemoKt" />
         <item itemvalue="Kotlin.HigherOrderFunctionsKt" />
         <item itemvalue="Kotlin.ListofObjectsKt" />
-        <item itemvalue="Kotlin.ListKt" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708089768182</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="sevencommit">
+      <option name="closed" value="true" />
+      <created>1708162698448</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708162698448</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,6 +229,18 @@
     <MESSAGE value="fourthcommit" />
     <MESSAGE value="fifthcommit" />
     <MESSAGE value="sixthcommit" />
-    <option name="LAST_COMMIT_MESSAGE" value="sixthcommit" />
+    <MESSAGE value="sevencommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="sevencommit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/TryCatch.kt</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
